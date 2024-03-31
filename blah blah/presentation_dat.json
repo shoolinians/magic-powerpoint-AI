@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Welcome to My Presentation",
+      "bg_image": "https://example.com/background_image.jpg",
+      "description_title": "About the Presentation",
+      "description": [
+        "This presentation covers various topics.",
+        "It provides an overview of our project.",
+        "We'll discuss key points and findings."
+      ]
+    },
+    {
+      "title": "Slide 1",
+      "description_title": "Bullet Points",
+      "description": [
+        "Point 1",
+        "Point 2",
+        "Point 3"
+      ],
+      "items": [
+        {
+          "type": "image",
+          "path": "https://source.unsplash.com/random/800x600"
+        },
+        {
+          "type": "image",
+          "path": "https://source.unsplash.com/random/800x600"
+        }
+      ]
+    },
+    {
+      "title": "Slide 2",
+      "description_title": "Bullet Points",
+      "description": [
+        "Point A",
+        "Point B",
+        "Point C"
+      ],
+      "items": [
+        {
+          "type": "image",
+          "path": "https://source.unsplash.com/random/800x600"
+        },
+        {
+          "type": "image",
+          "path": "https://source.unsplash.com/random/800x600"
+        }
+      ]
+    }
+  ]
